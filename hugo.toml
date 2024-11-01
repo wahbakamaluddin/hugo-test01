@@ -1,0 +1,4 @@
+baseURL = 'https://wahbakamaluddin.com/'
+languageCode = 'en-us'
+title = 'Wahba Kamaluddin Nurdin'
+theme = 'ananke'
